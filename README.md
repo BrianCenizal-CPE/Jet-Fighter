@@ -39,3 +39,10 @@ To run this game locally on your machine, follow these steps:
    ```bash
    git clone https://github.com/BrianCenizal-CPE/Jet-Fighter.git
    cd Jet-Fighter
+
+### Android (Native Mobile)
+To play on an Android device:
+1.  Navigate to the `/build` folder in this repository.
+2.  Download the `Jet-Fighter.apk` file to your device.
+3.  Open the file on your phone to install (Note: You may need to "Allow installation from unknown sources").
+4.  **Controls:** Use the on-screen Virtual Joystick (Left) and Touch Buttons (Right) for Fire, Dash, and Bomb.
