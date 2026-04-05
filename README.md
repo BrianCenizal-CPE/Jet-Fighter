@@ -40,6 +40,14 @@ To run this game locally on your machine, follow these steps:
    git clone https://github.com/BrianCenizal-CPE/Jet-Fighter.git
    cd Jet-Fighter
 
+2. **Install Dependencies:**
+   ```bash
+   pip install pygame
+   
+3. **Run the game:**
+   ```bash
+   python main.py
+
 ### Android (Native Mobile)
 To play on an Android device:
 1.  Navigate to the `/build` folder in this repository.
